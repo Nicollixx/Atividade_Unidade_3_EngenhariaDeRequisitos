@@ -468,17 +468,17 @@ Médico altera disponibilidade → Sistema identifica pacientes afetados → Env
 
 # Etapa 13 – Priorização dos Requisitos
 
-## Parte A - 5 Requisitos indispensáveis
+## Parte A - Selecionar 5 requisitos indispensáveis
 
-| Ordm | ID | Requisito | Por que precisa permanecer? |
-|------|----|-----------|-----------------------------|
-| 1 | RF01 | O sistema deverá permitir cadastrar pacientes. | É indispensável, pois o paciente precisa estar registrado para que uma consulta possa ser agendada. |
-| 2 | RF03 | O sistema deverá permitir cadastrar médicos. | É necessário cadastrar os médicos que realizarão os atendimentos. |
-| 3 | RF04 | O sistema deverá permitir cadastrar especialidades. | Permite organizar os médicos de acordo com suas respectivas áreas de atendimento. |
-| 4 | RF05 | O sistema deverá permitir cadastrar horários de atendimento dos médicos. | É fundamental para definir os horários em que cada médico estará disponível. |
-| 5 | RF07 | O sistema deverá permitir realizar agendamentos. | É a principal funcionalidade do sistema, permitindo marcar consultas entre pacientes e médicos. |
+| ID | Requisito | Por que precisa permanecer? |
+|----|-----------|-----------------------------|
+| RF01 | O sistema deverá permitir cadastrar pacientes. | É indispensável, pois o paciente precisa estar registrado para que uma consulta possa ser agendada. |
+| RF03 | O sistema deverá permitir cadastrar médicos. | É necessário cadastrar os médicos que realizarão os atendimentos. |
+| RF04 | O sistema deverá permitir cadastrar especialidades. | Permite organizar os médicos de acordo com suas respectivas áreas de atendimento. |
+| RF05 | O sistema deverá permitir cadastrar horários de atendimento dos médicos. | É fundamental para definir os horários em que cada médico estará disponível. |
+| RF07 | O sistema deverá permitir realizar agendamentos. | É a principal funcionalidade do sistema, permitindo marcar consultas entre pacientes e médicos. |
 
-## Parte B - 3 Requisitos que podem ir para uma versão futura
+## Parte B - Selecionar 3 requisitos que podem ir para uma versão futura
 
 | ID | Requisito | Impacto de adiar |
 |----|-----------|------------------|
